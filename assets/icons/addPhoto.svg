@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <filter id="Ellipse_619" x="0" y="0" width="33" height="33" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_11671" data-name="Group 11671" transform="translate(-364.5 -104.5)">
+    <g transform="matrix(1, 0, 0, 1, 364.5, 104.5)" filter="url(#Ellipse_619)">
+      <circle id="Ellipse_619-2" data-name="Ellipse 619" cx="15" cy="15" r="15" transform="translate(1.5 0.5)" fill="#d8d8d8"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(371.595 109.595)">
+      <g id="camera">
+        <rect id="Rectangle_17353" data-name="Rectangle 17353" width="18" height="18" transform="translate(0.405 0.405)" fill="#2f3c53" opacity="0"/>
+        <path id="Path_15618" data-name="Path 15618" d="M15.324,6.135H12.972V4.959A1.959,1.959,0,0,0,11.013,3H8.662A1.959,1.959,0,0,0,6.7,4.959V6.135H4.351A2.351,2.351,0,0,0,2,8.486v6.27a2.351,2.351,0,0,0,2.351,2.351H15.324a2.351,2.351,0,0,0,2.351-2.351V8.486A2.351,2.351,0,0,0,15.324,6.135ZM8.27,4.959a.392.392,0,0,1,.392-.392h2.351a.392.392,0,0,1,.392.392V6.135H8.27Zm7.837,9.8a.784.784,0,0,1-.784.784H4.351a.784.784,0,0,1-.784-.784V8.486A.784.784,0,0,1,4.351,7.7H15.324a.784.784,0,0,1,.784.784Z" transform="translate(-0.433 -0.649)" fill="#2f3c53"/>
+        <path id="Path_15619" data-name="Path 15619" d="M11.243,10.5a2.743,2.743,0,1,0,2.743,2.743A2.743,2.743,0,0,0,11.243,10.5Zm0,3.919a1.176,1.176,0,1,1,1.176-1.176A1.176,1.176,0,0,1,11.243,14.419Z" transform="translate(-1.838 -2.271)" fill="#2f3c53"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="Group_11662" data-name="Group 11662" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428" height="926" viewBox="0 0 428 926">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_535" data-name="Rectangle 535" width="299" height="337" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_526" data-name="Rectangle 526" width="428" height="926" fill="#222939"/>
+  <g id="Mask_Group_2" data-name="Mask Group 2" clip-path="url(#clip-path)">
+    <g id="Group_20" data-name="Group 20" transform="matrix(0.848, 0.53, -0.53, 0.848, 817.063, -17.821)" opacity="0.1">
+      <path id="Path_46" data-name="Path 46" d="M-626.325,621.4V381.742l24.608-14.208V635.611L-626.325,621.4Zm101.911-160.224V308.692l-12.3-7.105-12.309,7.105V461.181Zm-24.609,28.088H-577.11V324.906l-24.608,14.209-24.608,14.21-24.609,14.209V635.611l24.609,14.207,24.608,14.208,24.608,14.209V513.875h80.785v164.36l24.609-14.209,24.608-14.208,24.608-14.207V367.534l-24.608-14.209-24.608-14.21-24.609-14.209V489.269h-52.7Zm0,52.7V694.452l12.3,7.1,12.3-7.1V541.966ZM-447.109,621.4V381.742l-24.608-14.208V635.611l24.608-14.207Z" transform="translate(0 0)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

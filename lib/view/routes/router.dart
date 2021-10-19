@@ -9,7 +9,7 @@ import 'package:work/view/sign_in/splash_screen.dart';
 @MaterialAutoRouter(
   routes: <AutoRoute>[
     AutoRoute(page: SplashScreen, initial: true),
-    AutoRoute(page: SignUp, guards: [AuthGuard]),
+    AutoRoute(page: SigIn, guards: [AuthGuard]),
    ],
 )
 class $AppRouter {}

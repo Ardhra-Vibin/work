@@ -29,7 +29,7 @@ class AppRouter extends _i1.RootStackRouter {
     SignUpRoute.name: (routeData) => _i1.MaterialPageX<dynamic>(
         routeData: routeData,
         builder: (_) {
-          return const _i5.SignUp();
+          return const _i5.SigIn();
         })
   };
 
